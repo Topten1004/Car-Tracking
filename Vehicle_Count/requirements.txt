@@ -1,0 +1,15 @@
+scikit_learn==0.22.2
+numpy
+torch
+torchvision
+tqdm
+numba
+filterpy
+opencv-python
+scikit-image
+PyQt5
+shapely
+matplotlib
+pyserial
+pandas
+openpyxl
